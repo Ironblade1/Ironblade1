@@ -24,5 +24,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ironblade1&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![](https://komarev.com/ghpvc/?username=Ironblade1&label=PROFILE+VIEWS&color=yellow)
+<!-- ![](https://komarev.com/ghpvc/?username=Ironblade1&label=PROFILE+VIEWS&color=yellow) -->
 
